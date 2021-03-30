@@ -1,4 +1,4 @@
-
+//programs gets information of a certain directory
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
